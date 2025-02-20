@@ -10,7 +10,6 @@ Este projeto consiste em um chatbot desenvolvido em Python que utiliza a API do 
 
     ```bash
     git clone https://github.com/Tony-Felix/Chatbot-LinkedIn-Describer
-    cd projeto-clonado
     ```
 
 2.  **Crie um ambiente virtual (opcional, mas recomendado):**
