@@ -1,0 +1,35 @@
+#botao1 {
+  background-color: #4CAF50;
+  transition: background-color 0.3s ease;
+}
+
+#botao1:hover {
+  background-color: rgb(24, 224, 34);
+}
+
+#qrcode_container {
+  position: relative;
+  z-index: 1000;
+}
+
+#botao2 {
+  background-color: #f31d05;
+  transition: background-color 0.3s ease;
+}
+
+#botao2:hover {
+  background-color: #e74c3c;
+}
+
+.md.svelte-7ddecg.chatbot.prose p {
+  font-size: 18px;
+}
+
+.botoes {
+  background-color: #007bff;
+  transition: background-color 0.3s ease;
+}
+
+.botoes:hover {
+  background-color: #3089e9;
+}

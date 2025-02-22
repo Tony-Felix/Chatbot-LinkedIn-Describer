@@ -1,8 +1,8 @@
-# Chatbot! LinkedIn Describer ✍️
+# Chatbot! Criador de Posts ✍️
 
 ## Descrição do Projeto
 
-Este projeto consiste em um chatbot desenvolvido em Python que utiliza a API do Gemini para gerar descrições de posts para o LinkedIn a partir de arquivos de diversos tipos, como imagens, áudios e textos. O chatbot é integrado a uma interface gráfica através do Gradio, proporcionando uma experiência interativa e amigável para o usuário.
+Este projeto consiste em um chatbot desenvolvido em Python que utiliza a API do Gemini para gerar descrições de posts para o LinkedIn, ou outras redes, a partir de arquivos de diversos tipos, como imagens, áudios e textos e videos. O chatbot é integrado a uma interface gráfica através do Gradio, proporcionando uma experiência interativa e amigável para o usuário.
 
 ## Como Executar o Projeto
 
